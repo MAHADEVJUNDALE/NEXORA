@@ -1,0 +1,100 @@
+{
+    "module": "module_02_person_face_activity",
+    "pipeline": {
+        "detection": true,
+        "tracking": true,
+        "face_detection": true,
+        "pose_detection": true,
+        "activity": true,
+        "temporal_validation": true,
+        "event_generation": true,
+        "incident_generation": true,
+        "evidence": true
+    },
+    "statistics": {
+        "frames": 100,
+        "person_detections": 32,
+        "face_detections": 170,
+        "pose_detections": 129,
+        "activity_detections": 125,
+        "validated_sequences": 2,
+        "events": 2,
+        "incidents": 2
+    },
+    "events": [
+        {
+            "event_id": "EVT_0CE1056E",
+            "module": "module_02_person_face_activity",
+            "event_type": "SITTING",
+            "camera_id": "CAM_01",
+            "track_id": null,
+            "timestamp": 4.9,
+            "confidence": 0.71,
+            "severity": "LOW",
+            "status": "PENDING",
+            "rule": {
+                "name": "persistent_activity",
+                "threshold": 0.5,
+                "minimum_frames": 3
+            }
+        },
+        {
+            "event_id": "EVT_0D5357DE",
+            "module": "module_02_person_face_activity",
+            "event_type": "SITTING",
+            "camera_id": "CAM_01",
+            "track_id": null,
+            "timestamp": 9.5,
+            "confidence": 0.93,
+            "severity": "LOW",
+            "status": "PENDING",
+            "rule": {
+                "name": "persistent_activity",
+                "threshold": 0.5,
+                "minimum_frames": 3
+            }
+        }
+    ],
+    "incidents": [
+        {
+            "incident_id": "INC_42798E07",
+            "module": "module_02_person_face_activity",
+            "title": "Person Sitting Detected",
+            "event_type": "SITTING",
+            "camera_id": "CAM_01",
+            "timestamp": 4.9,
+            "severity": "LOW",
+            "confidence": 0.71,
+            "status": "PENDING",
+            "evidence": {
+                "frame_id": 49,
+                "frame_path": "/content/NEXORA/module_02_person_face_activity/datasets/NEXORA_CCTV/evidence/INC_42798E07_frame_49.jpg"
+            },
+            "review": {
+                "decision": null,
+                "reviewer": null,
+                "timestamp": null
+            }
+        },
+        {
+            "incident_id": "INC_27430F35",
+            "module": "module_02_person_face_activity",
+            "title": "Person Sitting Detected",
+            "event_type": "SITTING",
+            "camera_id": "CAM_01",
+            "timestamp": 9.5,
+            "severity": "LOW",
+            "confidence": 0.93,
+            "status": "PENDING",
+            "evidence": {
+                "frame_id": 95,
+                "frame_path": "/content/NEXORA/module_02_person_face_activity/datasets/NEXORA_CCTV/evidence/INC_27430F35_frame_95.jpg"
+            },
+            "review": {
+                "decision": null,
+                "reviewer": null,
+                "timestamp": null
+            }
+        }
+    ]
+}

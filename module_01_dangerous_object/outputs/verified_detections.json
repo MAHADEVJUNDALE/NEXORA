@@ -1,0 +1,22 @@
+[
+    {
+        "frame_id": 84,
+        "class_name": "Gun",
+        "confidence": 0.61
+    },
+    {
+        "frame_id": 112,
+        "class_name": "Gun",
+        "confidence": 0.33
+    },
+    {
+        "frame_id": 141,
+        "class_name": "Gun",
+        "confidence": 0.53
+    },
+    {
+        "frame_id": 169,
+        "class_name": "Gun",
+        "confidence": 0.26
+    }
+]

@@ -1,0 +1,1877 @@
+[
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 0,
+    "timestamp": 0.0,
+    "class_name": "person",
+    "confidence": 0.73,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 410,
+      "y1": 176,
+      "x2": 462,
+      "y2": 333
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 5,
+    "timestamp": 0.5,
+    "class_name": "person",
+    "confidence": 0.92,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 279,
+      "y1": 48,
+      "x2": 495,
+      "y2": 438
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 7,
+    "timestamp": 0.7,
+    "class_name": "person",
+    "confidence": 0.9,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 165,
+      "y1": 98,
+      "x2": 442,
+      "y2": 455
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 7,
+    "timestamp": 0.7,
+    "class_name": "person",
+    "confidence": 0.66,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 303,
+      "y1": 75,
+      "x2": 449,
+      "y2": 416
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 8,
+    "timestamp": 0.8,
+    "class_name": "person",
+    "confidence": 0.89,
+    "activity": "standing",
+    "bbox": {
+      "x1": 277,
+      "y1": 210,
+      "x2": 415,
+      "y2": 447
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 8,
+    "timestamp": 0.8,
+    "class_name": "person",
+    "confidence": 0.86,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 594,
+      "y1": 29,
+      "x2": 640,
+      "y2": 281
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 8,
+    "timestamp": 0.8,
+    "class_name": "person",
+    "confidence": 0.74,
+    "activity": "standing",
+    "bbox": {
+      "x1": 293,
+      "y1": 95,
+      "x2": 395,
+      "y2": 262
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 9,
+    "timestamp": 0.9,
+    "class_name": "person",
+    "confidence": 0.89,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 504,
+      "y1": 191,
+      "x2": 640,
+      "y2": 480
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 9,
+    "timestamp": 0.9,
+    "class_name": "person",
+    "confidence": 0.86,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 116,
+      "y1": 150,
+      "x2": 196,
+      "y2": 384
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 9,
+    "timestamp": 0.9,
+    "class_name": "person",
+    "confidence": 0.85,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 264,
+      "y1": 97,
+      "x2": 355,
+      "y2": 412
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 9,
+    "timestamp": 0.9,
+    "class_name": "person",
+    "confidence": 0.84,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 49,
+      "y1": 185,
+      "x2": 112,
+      "y2": 396
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 9,
+    "timestamp": 0.9,
+    "class_name": "person",
+    "confidence": 0.84,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 326,
+      "y1": 152,
+      "x2": 413,
+      "y2": 472
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 9,
+    "timestamp": 0.9,
+    "class_name": "person",
+    "confidence": 0.8,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 207,
+      "y1": 176,
+      "x2": 292,
+      "y2": 421
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 9,
+    "timestamp": 0.9,
+    "class_name": "person",
+    "confidence": 0.79,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 406,
+      "y1": 210,
+      "x2": 524,
+      "y2": 479
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 9,
+    "timestamp": 0.9,
+    "class_name": "person",
+    "confidence": 0.71,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 187,
+      "y1": 119,
+      "x2": 269,
+      "y2": 397
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 9,
+    "timestamp": 0.9,
+    "class_name": "person",
+    "confidence": 0.71,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 436,
+      "y1": 108,
+      "x2": 498,
+      "y2": 223
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 9,
+    "timestamp": 0.9,
+    "class_name": "person",
+    "confidence": 0.67,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 386,
+      "y1": 157,
+      "x2": 465,
+      "y2": 476
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 10,
+    "timestamp": 1.0,
+    "class_name": "person",
+    "confidence": 0.91,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 492,
+      "y1": 99,
+      "x2": 640,
+      "y2": 479
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 10,
+    "timestamp": 1.0,
+    "class_name": "person",
+    "confidence": 0.85,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 401,
+      "y1": 230,
+      "x2": 464,
+      "y2": 331
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 10,
+    "timestamp": 1.0,
+    "class_name": "person",
+    "confidence": 0.75,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 21,
+      "y1": 238,
+      "x2": 76,
+      "y2": 320
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 10,
+    "timestamp": 1.0,
+    "class_name": "person",
+    "confidence": 0.58,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 0,
+      "y1": 237,
+      "x2": 26,
+      "y2": 317
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 11,
+    "timestamp": 1.1,
+    "class_name": "person",
+    "confidence": 0.91,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 36,
+      "y1": 5,
+      "x2": 640,
+      "y2": 477
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 14,
+    "timestamp": 1.4,
+    "class_name": "person",
+    "confidence": 0.74,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 455,
+      "y1": 181,
+      "x2": 500,
+      "y2": 368
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 22,
+    "timestamp": 2.2,
+    "class_name": "person",
+    "confidence": 0.65,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 316,
+      "y1": 189,
+      "x2": 380,
+      "y2": 251
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 22,
+    "timestamp": 2.2,
+    "class_name": "person",
+    "confidence": 0.61,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 5,
+      "y1": 252,
+      "x2": 48,
+      "y2": 362
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 24,
+    "timestamp": 2.4,
+    "class_name": "person",
+    "confidence": 0.87,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 280,
+      "y1": 277,
+      "x2": 465,
+      "y2": 447
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 24,
+    "timestamp": 2.4,
+    "class_name": "person",
+    "confidence": 0.84,
+    "activity": "standing",
+    "bbox": {
+      "x1": 175,
+      "y1": 0,
+      "x2": 239,
+      "y2": 119
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 24,
+    "timestamp": 2.4,
+    "class_name": "person",
+    "confidence": 0.71,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 271,
+      "y1": 300,
+      "x2": 374,
+      "y2": 439
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 24,
+    "timestamp": 2.4,
+    "class_name": "person",
+    "confidence": 0.57,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 368,
+      "y1": 205,
+      "x2": 451,
+      "y2": 395
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 26,
+    "timestamp": 2.6,
+    "class_name": "person",
+    "confidence": 0.64,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 284,
+      "y1": 168,
+      "x2": 384,
+      "y2": 313
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 27,
+    "timestamp": 2.7,
+    "class_name": "person",
+    "confidence": 0.59,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 418,
+      "y1": 304,
+      "x2": 496,
+      "y2": 458
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 27,
+    "timestamp": 2.7,
+    "class_name": "person",
+    "confidence": 0.55,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 88,
+      "y1": 312,
+      "x2": 172,
+      "y2": 475
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 27,
+    "timestamp": 2.7,
+    "class_name": "person",
+    "confidence": 0.54,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 493,
+      "y1": 309,
+      "x2": 588,
+      "y2": 462
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 29,
+    "timestamp": 2.9,
+    "class_name": "person",
+    "confidence": 0.9,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 246,
+      "y1": 105,
+      "x2": 373,
+      "y2": 266
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 29,
+    "timestamp": 2.9,
+    "class_name": "person",
+    "confidence": 0.86,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 435,
+      "y1": 314,
+      "x2": 498,
+      "y2": 430
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 30,
+    "timestamp": 3.0,
+    "class_name": "person",
+    "confidence": 0.62,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 290,
+      "y1": 227,
+      "x2": 345,
+      "y2": 358
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 33,
+    "timestamp": 3.3,
+    "class_name": "person",
+    "confidence": 0.92,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 163,
+      "y1": 114,
+      "x2": 515,
+      "y2": 478
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 33,
+    "timestamp": 3.3,
+    "class_name": "person",
+    "confidence": 0.84,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 398,
+      "y1": 2,
+      "x2": 607,
+      "y2": 286
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 33,
+    "timestamp": 3.3,
+    "class_name": "person",
+    "confidence": 0.82,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 314,
+      "y1": 53,
+      "x2": 634,
+      "y2": 375
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 35,
+    "timestamp": 3.5,
+    "class_name": "person",
+    "confidence": 0.9,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 11,
+      "y1": 9,
+      "x2": 553,
+      "y2": 480
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 38,
+    "timestamp": 3.8,
+    "class_name": "person",
+    "confidence": 0.51,
+    "activity": "standing",
+    "bbox": {
+      "x1": 9,
+      "y1": 0,
+      "x2": 417,
+      "y2": 331
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 41,
+    "timestamp": 4.1,
+    "class_name": "person",
+    "confidence": 0.85,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 109,
+      "y1": 135,
+      "x2": 368,
+      "y2": 449
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 41,
+    "timestamp": 4.1,
+    "class_name": "person",
+    "confidence": 0.76,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 278,
+      "y1": 79,
+      "x2": 353,
+      "y2": 216
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 41,
+    "timestamp": 4.1,
+    "class_name": "person",
+    "confidence": 0.52,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 159,
+      "y1": 82,
+      "x2": 267,
+      "y2": 204
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 42,
+    "timestamp": 4.2,
+    "class_name": "person",
+    "confidence": 0.94,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 217,
+      "y1": 55,
+      "x2": 585,
+      "y2": 480
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 42,
+    "timestamp": 4.2,
+    "class_name": "person",
+    "confidence": 0.75,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 44,
+      "y1": 49,
+      "x2": 302,
+      "y2": 479
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 42,
+    "timestamp": 4.2,
+    "class_name": "person",
+    "confidence": 0.67,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 583,
+      "y1": 150,
+      "x2": 640,
+      "y2": 478
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 42,
+    "timestamp": 4.2,
+    "class_name": "person",
+    "confidence": 0.66,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 577,
+      "y1": 120,
+      "x2": 639,
+      "y2": 235
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 42,
+    "timestamp": 4.2,
+    "class_name": "person",
+    "confidence": 0.61,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 193,
+      "y1": 142,
+      "x2": 231,
+      "y2": 288
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 42,
+    "timestamp": 4.2,
+    "class_name": "person",
+    "confidence": 0.6,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 6,
+      "y1": 126,
+      "x2": 71,
+      "y2": 297
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 43,
+    "timestamp": 4.3,
+    "class_name": "person",
+    "confidence": 0.93,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 1,
+      "y1": 0,
+      "x2": 636,
+      "y2": 478
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 45,
+    "timestamp": 4.5,
+    "class_name": "person",
+    "confidence": 0.92,
+    "activity": "standing",
+    "bbox": {
+      "x1": 218,
+      "y1": 99,
+      "x2": 423,
+      "y2": 300
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 47,
+    "timestamp": 4.7,
+    "class_name": "person",
+    "confidence": 0.84,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 363,
+      "y1": 90,
+      "x2": 522,
+      "y2": 478
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 47,
+    "timestamp": 4.7,
+    "class_name": "person",
+    "confidence": 0.78,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 194,
+      "y1": 256,
+      "x2": 349,
+      "y2": 479
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 47,
+    "timestamp": 4.7,
+    "class_name": "person",
+    "confidence": 0.73,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 43,
+      "y1": 94,
+      "x2": 192,
+      "y2": 353
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 47,
+    "timestamp": 4.7,
+    "class_name": "person",
+    "confidence": 0.7,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 565,
+      "y1": 63,
+      "x2": 639,
+      "y2": 479
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 47,
+    "timestamp": 4.7,
+    "class_name": "person",
+    "confidence": 0.57,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 341,
+      "y1": 55,
+      "x2": 404,
+      "y2": 155
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 47,
+    "timestamp": 4.7,
+    "class_name": "person",
+    "confidence": 0.55,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 81,
+      "y1": 230,
+      "x2": 191,
+      "y2": 477
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 47,
+    "timestamp": 4.7,
+    "class_name": "person",
+    "confidence": 0.54,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 11,
+      "y1": 33,
+      "x2": 67,
+      "y2": 179
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 47,
+    "timestamp": 4.7,
+    "class_name": "person",
+    "confidence": 0.53,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 434,
+      "y1": 43,
+      "x2": 506,
+      "y2": 160
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 48,
+    "timestamp": 4.8,
+    "class_name": "person",
+    "confidence": 0.67,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 623,
+      "y1": 220,
+      "x2": 640,
+      "y2": 408
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 49,
+    "timestamp": 4.9,
+    "class_name": "person",
+    "confidence": 0.71,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 212,
+      "y1": 228,
+      "x2": 399,
+      "y2": 373
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 50,
+    "timestamp": 5.0,
+    "class_name": "person",
+    "confidence": 0.91,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 0,
+      "y1": 89,
+      "x2": 219,
+      "y2": 479
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 50,
+    "timestamp": 5.0,
+    "class_name": "person",
+    "confidence": 0.82,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 290,
+      "y1": 189,
+      "x2": 401,
+      "y2": 454
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 50,
+    "timestamp": 5.0,
+    "class_name": "person",
+    "confidence": 0.82,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 146,
+      "y1": 129,
+      "x2": 258,
+      "y2": 477
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 50,
+    "timestamp": 5.0,
+    "class_name": "person",
+    "confidence": 0.81,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 361,
+      "y1": 250,
+      "x2": 486,
+      "y2": 420
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 50,
+    "timestamp": 5.0,
+    "class_name": "person",
+    "confidence": 0.52,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 222,
+      "y1": 71,
+      "x2": 261,
+      "y2": 216
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 53,
+    "timestamp": 5.3,
+    "class_name": "person",
+    "confidence": 0.84,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 140,
+      "y1": 89,
+      "x2": 367,
+      "y2": 314
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 54,
+    "timestamp": 5.4,
+    "class_name": "person",
+    "confidence": 0.86,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 280,
+      "y1": 135,
+      "x2": 352,
+      "y2": 315
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 54,
+    "timestamp": 5.4,
+    "class_name": "person",
+    "confidence": 0.77,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 262,
+      "y1": 340,
+      "x2": 400,
+      "y2": 449
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 60,
+    "timestamp": 6.0,
+    "class_name": "person",
+    "confidence": 0.55,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 276,
+      "y1": 154,
+      "x2": 330,
+      "y2": 234
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 61,
+    "timestamp": 6.1,
+    "class_name": "person",
+    "confidence": 0.91,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 22,
+      "y1": 202,
+      "x2": 161,
+      "y2": 468
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 61,
+    "timestamp": 6.1,
+    "class_name": "person",
+    "confidence": 0.91,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 110,
+      "y1": 270,
+      "x2": 308,
+      "y2": 467
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 61,
+    "timestamp": 6.1,
+    "class_name": "person",
+    "confidence": 0.9,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 341,
+      "y1": 106,
+      "x2": 453,
+      "y2": 430
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 61,
+    "timestamp": 6.1,
+    "class_name": "person",
+    "confidence": 0.73,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 109,
+      "y1": 103,
+      "x2": 195,
+      "y2": 203
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 61,
+    "timestamp": 6.1,
+    "class_name": "person",
+    "confidence": 0.67,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 272,
+      "y1": 103,
+      "x2": 340,
+      "y2": 187
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 61,
+    "timestamp": 6.1,
+    "class_name": "person",
+    "confidence": 0.67,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 32,
+      "y1": 143,
+      "x2": 88,
+      "y2": 212
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 61,
+    "timestamp": 6.1,
+    "class_name": "person",
+    "confidence": 0.62,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 213,
+      "y1": 107,
+      "x2": 281,
+      "y2": 192
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 64,
+    "timestamp": 6.4,
+    "class_name": "person",
+    "confidence": 0.77,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 338,
+      "y1": 128,
+      "x2": 633,
+      "y2": 404
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 64,
+    "timestamp": 6.4,
+    "class_name": "person",
+    "confidence": 0.72,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 0,
+      "y1": 66,
+      "x2": 396,
+      "y2": 422
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 65,
+    "timestamp": 6.5,
+    "class_name": "person",
+    "confidence": 0.77,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 165,
+      "y1": 133,
+      "x2": 445,
+      "y2": 479
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 65,
+    "timestamp": 6.5,
+    "class_name": "person",
+    "confidence": 0.6,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 388,
+      "y1": 151,
+      "x2": 479,
+      "y2": 262
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 65,
+    "timestamp": 6.5,
+    "class_name": "person",
+    "confidence": 0.55,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 528,
+      "y1": 141,
+      "x2": 639,
+      "y2": 354
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 67,
+    "timestamp": 6.7,
+    "class_name": "person",
+    "confidence": 0.67,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 241,
+      "y1": 15,
+      "x2": 639,
+      "y2": 480
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 68,
+    "timestamp": 6.8,
+    "class_name": "person",
+    "confidence": 0.93,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 0,
+      "y1": 105,
+      "x2": 164,
+      "y2": 456
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 68,
+    "timestamp": 6.8,
+    "class_name": "person",
+    "confidence": 0.88,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 198,
+      "y1": 126,
+      "x2": 368,
+      "y2": 377
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 68,
+    "timestamp": 6.8,
+    "class_name": "person",
+    "confidence": 0.84,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 420,
+      "y1": 120,
+      "x2": 640,
+      "y2": 375
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 68,
+    "timestamp": 6.8,
+    "class_name": "person",
+    "confidence": 0.84,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 138,
+      "y1": 136,
+      "x2": 252,
+      "y2": 327
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 68,
+    "timestamp": 6.8,
+    "class_name": "person",
+    "confidence": 0.84,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 365,
+      "y1": 150,
+      "x2": 442,
+      "y2": 329
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 69,
+    "timestamp": 6.9,
+    "class_name": "person",
+    "confidence": 0.89,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 241,
+      "y1": 156,
+      "x2": 366,
+      "y2": 347
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 71,
+    "timestamp": 7.1,
+    "class_name": "person",
+    "confidence": 0.83,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 191,
+      "y1": 56,
+      "x2": 314,
+      "y2": 158
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 72,
+    "timestamp": 7.2,
+    "class_name": "person",
+    "confidence": 0.77,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 461,
+      "y1": 163,
+      "x2": 547,
+      "y2": 380
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 72,
+    "timestamp": 7.2,
+    "class_name": "person",
+    "confidence": 0.76,
+    "activity": "standing",
+    "bbox": {
+      "x1": 340,
+      "y1": 177,
+      "x2": 462,
+      "y2": 399
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 74,
+    "timestamp": 7.4,
+    "class_name": "person",
+    "confidence": 0.92,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 375,
+      "y1": 242,
+      "x2": 508,
+      "y2": 479
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 78,
+    "timestamp": 7.8,
+    "class_name": "person",
+    "confidence": 0.87,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 270,
+      "y1": 89,
+      "x2": 450,
+      "y2": 313
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 78,
+    "timestamp": 7.8,
+    "class_name": "person",
+    "confidence": 0.71,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 245,
+      "y1": 40,
+      "x2": 294,
+      "y2": 161
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 78,
+    "timestamp": 7.8,
+    "class_name": "person",
+    "confidence": 0.62,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 503,
+      "y1": 61,
+      "x2": 542,
+      "y2": 188
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 81,
+    "timestamp": 8.1,
+    "class_name": "person",
+    "confidence": 0.91,
+    "activity": "standing",
+    "bbox": {
+      "x1": 161,
+      "y1": 112,
+      "x2": 397,
+      "y2": 311
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 83,
+    "timestamp": 8.3,
+    "class_name": "person",
+    "confidence": 0.91,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 244,
+      "y1": 99,
+      "x2": 439,
+      "y2": 364
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 83,
+    "timestamp": 8.3,
+    "class_name": "person",
+    "confidence": 0.77,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 0,
+      "y1": 256,
+      "x2": 353,
+      "y2": 479
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 83,
+    "timestamp": 8.3,
+    "class_name": "person",
+    "confidence": 0.6,
+    "activity": "standing",
+    "bbox": {
+      "x1": 401,
+      "y1": 285,
+      "x2": 640,
+      "y2": 480
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 84,
+    "timestamp": 8.4,
+    "class_name": "person",
+    "confidence": 0.92,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 325,
+      "y1": 212,
+      "x2": 407,
+      "y2": 368
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 84,
+    "timestamp": 8.4,
+    "class_name": "person",
+    "confidence": 0.89,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 414,
+      "y1": 191,
+      "x2": 479,
+      "y2": 362
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 86,
+    "timestamp": 8.6,
+    "class_name": "person",
+    "confidence": 0.85,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 71,
+      "y1": 9,
+      "x2": 635,
+      "y2": 479
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 88,
+    "timestamp": 8.8,
+    "class_name": "person",
+    "confidence": 0.87,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 148,
+      "y1": 20,
+      "x2": 355,
+      "y2": 389
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 88,
+    "timestamp": 8.8,
+    "class_name": "person",
+    "confidence": 0.62,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 326,
+      "y1": 75,
+      "x2": 508,
+      "y2": 286
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 90,
+    "timestamp": 9.0,
+    "class_name": "person",
+    "confidence": 0.55,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 354,
+      "y1": 63,
+      "x2": 586,
+      "y2": 327
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 92,
+    "timestamp": 9.2,
+    "class_name": "person",
+    "confidence": 0.86,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 70,
+      "y1": 50,
+      "x2": 499,
+      "y2": 465
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 93,
+    "timestamp": 9.3,
+    "class_name": "person",
+    "confidence": 0.87,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 312,
+      "y1": 87,
+      "x2": 457,
+      "y2": 284
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 93,
+    "timestamp": 9.3,
+    "class_name": "person",
+    "confidence": 0.78,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 143,
+      "y1": 94,
+      "x2": 278,
+      "y2": 248
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 93,
+    "timestamp": 9.3,
+    "class_name": "person",
+    "confidence": 0.67,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 0,
+      "y1": 90,
+      "x2": 105,
+      "y2": 180
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 93,
+    "timestamp": 9.3,
+    "class_name": "person",
+    "confidence": 0.65,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 458,
+      "y1": 97,
+      "x2": 640,
+      "y2": 349
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 93,
+    "timestamp": 9.3,
+    "class_name": "person",
+    "confidence": 0.64,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 277,
+      "y1": 60,
+      "x2": 370,
+      "y2": 200
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 93,
+    "timestamp": 9.3,
+    "class_name": "person",
+    "confidence": 0.52,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 562,
+      "y1": 47,
+      "x2": 615,
+      "y2": 136
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 94,
+    "timestamp": 9.4,
+    "class_name": "person",
+    "confidence": 0.91,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 159,
+      "y1": 72,
+      "x2": 445,
+      "y2": 479
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 95,
+    "timestamp": 9.5,
+    "class_name": "person",
+    "confidence": 0.93,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 37,
+      "y1": 62,
+      "x2": 176,
+      "y2": 480
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 95,
+    "timestamp": 9.5,
+    "class_name": "person",
+    "confidence": 0.64,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 296,
+      "y1": 73,
+      "x2": 381,
+      "y2": 229
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 96,
+    "timestamp": 9.6,
+    "class_name": "person",
+    "confidence": 0.9,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 0,
+      "y1": 61,
+      "x2": 241,
+      "y2": 478
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 96,
+    "timestamp": 9.6,
+    "class_name": "person",
+    "confidence": 0.83,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 136,
+      "y1": 175,
+      "x2": 235,
+      "y2": 322
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 96,
+    "timestamp": 9.6,
+    "class_name": "person",
+    "confidence": 0.82,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 376,
+      "y1": 190,
+      "x2": 455,
+      "y2": 298
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 96,
+    "timestamp": 9.6,
+    "class_name": "person",
+    "confidence": 0.78,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 253,
+      "y1": 200,
+      "x2": 327,
+      "y2": 286
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 96,
+    "timestamp": 9.6,
+    "class_name": "person",
+    "confidence": 0.74,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 508,
+      "y1": 127,
+      "x2": 639,
+      "y2": 288
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 98,
+    "timestamp": 9.8,
+    "class_name": "person",
+    "confidence": 0.55,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 322,
+      "y1": 173,
+      "x2": 355,
+      "y2": 261
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 99,
+    "timestamp": 9.9,
+    "class_name": "person",
+    "confidence": 0.92,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 208,
+      "y1": 95,
+      "x2": 344,
+      "y2": 415
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "frame_id": 99,
+    "timestamp": 9.9,
+    "class_name": "person",
+    "confidence": 0.85,
+    "activity": "sitting",
+    "bbox": {
+      "x1": 77,
+      "y1": 101,
+      "x2": 205,
+      "y2": 294
+    }
+  }
+]

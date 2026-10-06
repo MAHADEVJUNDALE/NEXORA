@@ -1,0 +1,36 @@
+{
+  "module": "module_02_person_face_activity",
+  "evaluation_note": "Metrics are calculated from the current prototype outputs. The COCO-derived video contains non-continuous frames, therefore ground-truth accuracy metrics such as mAP, precision, recall, HOTA, IDF1 and activity accuracy are not claimed.",
+  "detection": {
+    "person_detections": 32,
+    "face_detections": 170,
+    "pose_detections": 129,
+    "average_person_confidence": 0.8228,
+    "average_face_confidence": 0.759,
+    "average_pose_confidence": 0.7602
+  },
+  "tracking": {
+    "unique_track_ids": 6,
+    "tracking_records": 32
+  },
+  "activity": {
+    "activity_detections": 125,
+    "activity_distribution": {
+      "sitting": 117,
+      "standing": 8
+    },
+    "average_activity_confidence": 0.7601
+  },
+  "temporal_validation": {
+    "validated_activity_sequences": 2
+  },
+  "events": {
+    "total_events": 2,
+    "event_distribution": {
+      "SITTING": 2
+    }
+  },
+  "incidents": {
+    "total_incidents": 2
+  }
+}

@@ -1,0 +1,116 @@
+
+module:
+  id: module_02_person_face_activity
+  name: Person Face Activity Detection
+
+
+models:
+
+  person:
+    path: models/checkpoints/yolo11n.pt
+    type: yolov11
+    task: detect
+
+  face:
+    path: models/checkpoints/yolov11n-face.pt
+    type: yolov11
+    task: detect
+
+  pose:
+    path: models/checkpoints/yolo11n-pose.pt
+    type: yolov11
+    task: pose
+
+
+inference:
+
+  input_size: 640
+
+  confidence_threshold:
+    person: 0.50
+    face: 0.50
+    pose: 0.50
+
+  iou_threshold: 0.50
+
+
+tracking:
+
+  enabled: true
+  tracker: bytetrack.yaml
+
+  track_buffer: 30
+  match_threshold: 0.80
+  minimum_matching_threshold: 0.50
+
+
+temporal_validation:
+
+  minimum_frames: 3
+  cooldown_frames: 10
+
+
+events:
+
+  sitting:
+    enabled: true
+    severity: LOW
+
+  standing:
+    enabled: true
+    severity: LOW
+
+  walking:
+    enabled: true
+    severity: LOW
+
+  running:
+    enabled: true
+    severity: MEDIUM
+
+  falling:
+    enabled: true
+    severity: HIGH
+
+  lying:
+    enabled: true
+    severity: MEDIUM
+
+  raising_hand:
+    enabled: true
+    severity: LOW
+
+
+evidence:
+
+  enabled: true
+  save_frame: true
+  save_clip: false
+
+  output_directory: datasets/NEXORA_CCTV/evidence
+
+
+output:
+
+  format: json
+
+  directory: datasets/NEXORA_CCTV/annotations
+
+  detection_file: person_tracking_results.json
+  face_file: face_detection_results.json
+  pose_file: pose_detection_results.json
+  activity_file: activity_results.json
+  temporal_file: temporal_activity_results.json
+  event_file: events.json
+  incident_file: incidents.json
+
+
+camera:
+
+  default_camera_id: CAM_01
+
+
+status:
+
+  default_event_status: PENDING
+  default_incident_status: PENDING

@@ -1,0 +1,42 @@
+[
+  {
+    "incident_id": "INC_42798E07",
+    "module": "module_02_person_face_activity",
+    "title": "Person Sitting Detected",
+    "event_type": "SITTING",
+    "camera_id": "CAM_01",
+    "timestamp": 4.9,
+    "severity": "LOW",
+    "confidence": 0.71,
+    "status": "PENDING",
+    "evidence": {
+      "frame_id": 49,
+      "frame_path": "/content/NEXORA/module_02_person_face_activity/datasets/NEXORA_CCTV/evidence/INC_42798E07_frame_49.jpg"
+    },
+    "review": {
+      "decision": null,
+      "reviewer": null,
+      "timestamp": null
+    }
+  },
+  {
+    "incident_id": "INC_27430F35",
+    "module": "module_02_person_face_activity",
+    "title": "Person Sitting Detected",
+    "event_type": "SITTING",
+    "camera_id": "CAM_01",
+    "timestamp": 9.5,
+    "severity": "LOW",
+    "confidence": 0.93,
+    "status": "PENDING",
+    "evidence": {
+      "frame_id": 95,
+      "frame_path": "/content/NEXORA/module_02_person_face_activity/datasets/NEXORA_CCTV/evidence/INC_27430F35_frame_95.jpg"
+    },
+    "review": {
+      "decision": null,
+      "reviewer": null,
+      "timestamp": null
+    }
+  }
+]

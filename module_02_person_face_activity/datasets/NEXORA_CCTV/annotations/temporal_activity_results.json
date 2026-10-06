@@ -1,0 +1,32 @@
+[
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "event_type": "SITTING",
+    "start_frame": 47,
+    "end_frame": 49,
+    "timestamp": 4.9,
+    "confidence": 0.71,
+    "status": "PENDING",
+    "rule": {
+      "name": "temporal_activity_validation",
+      "minimum_frames": 3,
+      "cooldown_frames": 10
+    }
+  },
+  {
+    "module": "module_02_person_face_activity",
+    "camera_id": "CAM_01",
+    "event_type": "SITTING",
+    "start_frame": 93,
+    "end_frame": 95,
+    "timestamp": 9.5,
+    "confidence": 0.93,
+    "status": "PENDING",
+    "rule": {
+      "name": "temporal_activity_validation",
+      "minimum_frames": 3,
+      "cooldown_frames": 10
+    }
+  }
+]

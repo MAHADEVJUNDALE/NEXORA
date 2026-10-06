@@ -1,0 +1,40 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Large ML models
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# Videos
+*.mp4
+*.webm
+*.avi
+*.mov
+*.mkv
+
+# Large archives
+*.zip
+*.tar
+*.tar.gz
+
+# Large datasets
+module_02_person_face_activity/datasets/COCO/
+module_02_person_face_activity/datasets/NEXORA_CCTV/videos/
+
+# Colab / Jupyter
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store

@@ -1,0 +1,47 @@
+[
+    {
+        "incident_id": "M01_INC_001",
+        "module": "M01",
+        "title": "Gun detected in CCTV footage",
+        "event_type": "dangerous_object",
+        "camera_id": "CAM_01",
+        "timestamp": "2026-10-06T15:19:35.250402",
+        "severity": "CRITICAL",
+        "confidence": 0.432,
+        "status": "PENDING",
+        "evidence": {
+            "frames": [
+                84,
+                112,
+                141,
+                169
+            ],
+            "detections": [
+                {
+                    "frame_id": 84,
+                    "class_name": "Gun",
+                    "confidence": 0.61
+                },
+                {
+                    "frame_id": 112,
+                    "class_name": "Gun",
+                    "confidence": 0.33
+                },
+                {
+                    "frame_id": 141,
+                    "class_name": "Gun",
+                    "confidence": 0.53
+                },
+                {
+                    "frame_id": 169,
+                    "class_name": "Gun",
+                    "confidence": 0.26
+                }
+            ]
+        },
+        "review": {
+            "required": true,
+            "decision": null
+        }
+    }
+]

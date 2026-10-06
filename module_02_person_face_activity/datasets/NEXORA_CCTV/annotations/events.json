@@ -1,0 +1,34 @@
+[
+  {
+    "event_id": "EVT_0CE1056E",
+    "module": "module_02_person_face_activity",
+    "event_type": "SITTING",
+    "camera_id": "CAM_01",
+    "track_id": null,
+    "timestamp": 4.9,
+    "confidence": 0.71,
+    "severity": "LOW",
+    "status": "PENDING",
+    "rule": {
+      "name": "persistent_activity",
+      "threshold": 0.5,
+      "minimum_frames": 3
+    }
+  },
+  {
+    "event_id": "EVT_0D5357DE",
+    "module": "module_02_person_face_activity",
+    "event_type": "SITTING",
+    "camera_id": "CAM_01",
+    "track_id": null,
+    "timestamp": 9.5,
+    "confidence": 0.93,
+    "severity": "LOW",
+    "status": "PENDING",
+    "rule": {
+      "name": "persistent_activity",
+      "threshold": 0.5,
+      "minimum_frames": 3
+    }
+  }
+]

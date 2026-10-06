@@ -1,0 +1,11 @@
+{
+    "module": "M01",
+    "total_sampled_frames": 10,
+    "weapon_detection_frames": 4,
+    "weapon_type": "Gun",
+    "average_confidence": 0.432,
+    "max_confidence": 0.61,
+    "temporal_validation": true,
+    "events": 1,
+    "incidents": 1
+}
